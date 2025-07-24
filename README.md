@@ -10,12 +10,12 @@
 <div align="center"><h3>🧠 About Me</h3></div>
 
 <div align="center">
-  <p>🎯 Passionate about <strong>backend systems</strong>, <strong>data platforms</strong>, and <strong>cloud infrastructure</strong></p>
-  <p>🛠 I specialize in building <strong>scalable</strong>, <strong>resilient</strong>, and <strong>automated data pipelines</strong></p>
-  <p>🌐 Focused on <strong>Data Engineering</strong> and <strong>DevOps</strong>, working with distributed systems</p>
-  <p>💡 Currently diving deeper into <strong>Kafka</strong>, <strong>Kubernetes</strong>, <strong>Azure</strong>, and <strong>AI-powered solutions</strong></p>
-  <p>🌍 I enjoy exploring new cultures and discovering new places</p>
-  <p>📬 Reach me at <strong>samucarvalhocp@gmail.com</strong></p>
+  <p>🚀 Passionate about building <strong>scalable data pipelines</strong> and <strong>backend systems</strong></p>
+  <p>🔧 Learning <strong>Go</strong> to craft <strong>resilient</strong>, <strong>automated</strong> data platforms</p>
+  <p>☁️ Exploring <strong>DevOps</strong> with <strong>Kubernetes</strong>, <strong>Docker</strong>, and cloud infrastructure</p>
+  <p>💡 Diving into <strong>Kafka</strong>, <strong>Azure</strong>, and <strong>AI-driven</strong> data solutions</p>
+  <p>🌎 Curious about new cultures, places, and innovative technologies</p>
+  <p>📫 Connect with me at <strong>samucarvalhocp@gmail.com</strong> for collaborations</p>
 </div>
 
 ---
