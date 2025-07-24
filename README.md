@@ -9,12 +9,14 @@
 
 <div align="center"><h3>🧠 About Me</h3></div>
 
-- 🎯 Passionate about **backend systems**, **data platforms**, and **cloud infrastructure**
-- 🛠 I specialize in building **scalable**, **resilient**, and **automated data pipelines**
-- 🌐 Focused on **Data Engineering** and **DevOps**, working with distributed systems
-- 💡 Currently diving deeper into **Kafka**, **Kubernetes**, **Azure**, and **AI-powered solutions**
-- 🌍 I enjoy exploring new cultures and discovering new places
-- 📬 Reach me at **samucarvalhocp@gmail.com**
+<div align="center">
+  <p>🎯 Passionate about <strong>backend systems</strong>, <strong>data platforms</strong>, and <strong>cloud infrastructure</strong></p>
+  <p>🛠 I specialize in building <strong>scalable</strong>, <strong>resilient</strong>, and <strong>automated data pipelines</strong></p>
+  <p>🌐 Focused on <strong>Data Engineering</strong> and <strong>DevOps</strong>, working with distributed systems</p>
+  <p>💡 Currently diving deeper into <strong>Kafka</strong>, <strong>Kubernetes</strong>, <strong>Azure</strong>, and <strong>AI-powered solutions</strong></p>
+  <p>🌍 I enjoy exploring new cultures and discovering new places</p>
+  <p>📬 Reach me at <strong>samucarvalhocp@gmail.com</strong></p>
+</div>
 
 ---
 
@@ -35,6 +37,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
 </div>
 
 <div align="center"><h4>☁️ Cloud & DevOps</h4></div>
@@ -43,8 +46,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Azure_AI-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Azure_AI-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
 </div>
 
 <div align="center"><h4>🔌 APIs & Tools</h4></div>
