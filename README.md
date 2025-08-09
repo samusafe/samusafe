@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋 I'm Samuel Carvalho</h1>
-<h3 align="center">🚀 Data Engineer Enthusiast | 🌍 Based in Portugal</h3>
+<h3 align="center">🚀 Backend Engineer Enthusiast | 🌍 Based in Portugal</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;I'm+a+Data+Engineer;I+build+resilient+and+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;I'm+a+Backend+Engineer;I+build+resilient+and+scalable+systems" alt="Typing SVG" />
 </div>
 
 ---
