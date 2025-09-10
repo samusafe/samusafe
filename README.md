@@ -32,6 +32,15 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="25" />
 </div>
 
+<div align="center"><h4>⚡ Frameworks & Libraries</h4></div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="25" />
+</div>
+
 <div align="center"><h4>🗄️ Databases</h4></div>
 
 <div align="center">
