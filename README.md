@@ -13,7 +13,7 @@
   <p>🚀 Passionate about building <strong>scalable data pipelines</strong> and <strong>backend systems</strong></p>
   <p>🔧 Learning <strong>Go</strong> to craft <strong>resilient</strong>, <strong>automated</strong> data platforms</p>
   <p>☁️ Exploring <strong>DevOps</strong> with <strong>Kubernetes</strong>, <strong>Docker</strong>, and cloud infrastructure</p>
-  <p>💡 Diving into <strong>Kafka</strong>, <strong>Azure</strong>, and <strong>AI-driven</strong> data solutions</p>
+  <p>💡 Diving into <strong>Azure</strong>, and <strong>AI-driven</strong> data solutions</p>
   <p>🌎 Curious about new cultures, places, and innovative technologies</p>
   <p>📫 Connect with me at <strong>samucarvalhocp@gmail.com</strong> for collaborations</p>
 </div>
