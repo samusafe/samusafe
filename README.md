@@ -1,81 +1,75 @@
-<h1 align="center">Hey there 👋 I'm Samuel Carvalho</h1>
-<h3 align="center">🚀 Backend Engineer Enthusiast | 🌍 Based in Portugal</h3>
+<h1 align="center">Hello, I'm Samuel Carvalho 👋</h1>
+<h3 align="center">🚀 Software Engineer | Backend & AI Integrations</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;I'm+a+Backend+Engineer;I+build+resilient+and+scalable+systems" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Integrating+AI+Solutions;Computer+Engineering+Student;Exploring+Cloud+Native+Technologies" alt="Typing SVG" />
+  </a>
 </div>
-
----
-
-<div align="center"><h3>🧠 About Me</h3></div>
-
-<div align="center">
-  <p>🚀 Passionate about building <strong>scalable data pipelines</strong> and <strong>backend systems</strong></p>
-  <p>🔧 Learning <strong>Go</strong> to craft <strong>resilient</strong>, <strong>automated</strong> data platforms</p>
-  <p>☁️ Exploring <strong>DevOps</strong> with <strong>Kubernetes</strong>, <strong>Docker</strong>, and cloud infrastructure</p>
-  <p>💡 Diving into <strong>Azure</strong>, and <strong>AI-driven</strong> data solutions</p>
-  <p>🌎 Curious about new cultures, places, and innovative technologies</p>
-  <p>📫 Connect with me at <strong>samucarvalhocp@gmail.com</strong> for collaborations</p>
-</div>
-
----
-
-<div align="center"><h3>💻 Tech Stack & Tools</h3></div>
-
-<div align="center"><h4>🧑‍💻 Languages</h4></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="25" />
-</div>
-
-<div align="center"><h4>⚡ Frameworks</h4></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" height="25" />
-</div>
-
-<div align="center"><h4>🗄️ Databases</h4></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
-</div>
-
-<div align="center"><h4>☁️ Cloud & DevOps</h4></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Azure_AI-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat&logo=microsoftazure&logoColor=white" height="25" />
-</div>
-
-<div align="center"><h4>🔌 APIs & Tools</h4></div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" height="25" />
-</div>
-
----
-
-<div align="center"><h3>🔗 Connect with me</h3></div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samusafe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:samucarvalhocp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Computer Engineering** student at the Polytechnic of Porto with a passion for Backend development. My focus is on designing robust software architectures and integrating **Artificial Intelligence** into real-world products.
+
+* 🔭 **Professional Experience:** I previously worked as a **Researcher & Developer** at **Fashable**, where I contributed to Generative AI technologies, Azure Cloud infrastructure, and SaaS product enhancements.
+* 🎓 **Education:** Currently pursuing a Bachelor's degree in Computer Engineering (ESTG), holding a diploma in Web and Mobile Development.
+* 🌱 **Currently Learning:** Deepening my expertise in **Node.js (Express)** and starting my journey with **Go (Golang)** to build high-performance backend systems.
+* 💡 **Interests:** Software Architecture, Cloud Computing, AI-driven Development, and DevOps.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+My technical toolkit, built through academic rigor and professional application:
+
+#### **Core & Backend**
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go_(_Learning_)-00ADD8?style=flat&logo=go&logoColor=white" />
+</div>
+
+#### **Cloud, AI & DevOps**
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Studio-0078D7?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+</div>
+
+#### **Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D7?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>
+
+---
+
+### 📈 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samusafe&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="languages graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="165" alt="tech quote" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's build together! 🚀</sub>
 </div>
