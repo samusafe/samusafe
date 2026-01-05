@@ -33,7 +33,7 @@ I am a **Computer Engineering** student at the Polytechnic of Porto with a passi
 
 My technical toolkit, built through academic rigor and professional application:
 
-#### **Core & Backend**
+#### **Core**
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
