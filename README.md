@@ -24,7 +24,7 @@ I am a **Computer Engineering** student at the Polytechnic of Porto with a passi
 
 * 🔭 **Professional Experience:** I previously worked as a **Researcher & Developer** at **Fashable**, where I contributed to Generative AI technologies, Azure Cloud infrastructure, and SaaS product enhancements.
 * 🎓 **Education:** Currently pursuing a Bachelor's degree in Computer Engineering (ESTG), holding a diploma in Web and Mobile Development.
-* 🌱 **Currently Learning:** Deepening my expertise in **Node.js (Express)** and starting my journey with **Go (Golang)** to build high-performance backend systems.
+* 🌱 **Currently Learning:** Deepening my expertise in **Node.js (Nestjs)**.
 * 💡 **Interests:** Software Architecture, Cloud Computing, AI-driven Development, and DevOps.
 
 ---
