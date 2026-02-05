@@ -61,10 +61,7 @@ My technical toolkit, built through academic rigor and professional application:
 
 ---
 
-### 📈 Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samusafe&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="languages graph" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="165" alt="tech quote" />
 </div>
 
