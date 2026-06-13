@@ -38,18 +38,20 @@ Currently, I am working on Agentic AI and high-performance architectures. I buil
 
 <table align="center">
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <b>Backend & Core</b><br><br>
-      <img src="https://skillicons.dev/icons?i=java,spring,go,python,nodejs,ts" />
+      <img src="https://skillicons.dev/icons?i=java,spring,go,ts,nodejs,nestjs" /><br>
+      <sub>Java • Spring • Go<br>TypeScript • Node.js • NestJS</sub>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <b>AI & Data</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" /><br>
-      <sub>Ollama • Local LLMs • pgvector • BullMQ</sub>
+      <img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb" /><br>
+      <sub>Python • PostgreSQL • MongoDB<br>Ollama • Vector Search • Redis</sub>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="33%">
       <b>Cloud & DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,azure,linux,git" />
+      <img src="https://skillicons.dev/icons?i=docker,azure,linux,git" /><br>
+      <sub>Docker • Azure • Linux • Git</sub>
     </td>
   </tr>
 </table>
