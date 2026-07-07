@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=Samuel%20Carvalho&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<h3 align="center">🚀 Software Engineer | Backend & AI Architect</h3>
+<h3 align="center">🤖 AI Engineer — RAG, Fine-tuning & LLMOps | Full-stack</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Backend+Systems;Building+Agentic+AI+%26+Local+LLMs;Java+Spring+Boot+%26+Go+Microservices;Bridging+Software+with+Artificial+Intelligence" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Private%2C+local-first+AI+platforms;RAG+pipelines+with+evals+%26+tracing;QLoRA+fine-tuning+on+consumer+GPUs;NestJS+%2B+FastAPI+%2B+LangChain" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,45 +23,37 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering** student based in Porto, focused on bridging robust backend systems with modern Artificial Intelligence. I believe the best way to learn is by building.
+Final-year **Computer Engineering** student in Porto, building **private, production-grade AI systems end-to-end** — from the backend and queues to the RAG pipeline, fine-tuned models and the desktop UI. I believe the best way to learn is by building, and I don't ship an AI change without measuring it.
 
-Currently, I am working on Agentic AI and high-performance architectures. I build secure, low-latency environments using **Java (Spring Boot)** as the core orchestrator and **Go** for lightning-fast microservices. On the AI side, I work deeply with local LLMs, RAG, and Multi-Agent workflows to automate complex processes.
-
-- 🔭 **Professional Experience:** Previously Researcher & Developer at **Fashable**, contributing to Generative AI, Azure Cloud infrastructure, and SaaS.
-- 🌱 **Currently Building:** Workspaces and MLOps platforms using split-brain architectures.
-- 🎯 **Long-term Goal:** Continuously growing as an engineer, with an eye towards relocating to Switzerland (Valais).
-- ⚡ **Fun Fact:** Off the screen, I’m a chill and positive person who loves spontaneous walks and exploring new places. I highly value constructive feedback as a tool for growth.
+- 🔭 **Currently building:** **LocalVault** — an on-premise AI platform: local RAG (LangChain + PGVector + cross-encoder reranking, semantic cache), QLoRA fine-tuning (Unsloth → GGUF → Ollama) on an 8GB consumer GPU, evals tracked in MLflow and tracing with Langfuse. NestJS + BullMQ backend, Tauri/React desktop app. *(Closed-source — case study coming to my portfolio.)*
+- 💼 **Experience:** Researcher & Developer at **Fashable** — Generative AI, Azure cloud infrastructure, SaaS.
+- 🎯 **Looking for:** remote roles/internships in AI engineering — fine-tuning, internal process automation with LLMs, and LLM-powered product UIs.
+- ⚡ **Off-screen:** chill, positive, and a big believer in constructive feedback.
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>Backend & Core</b><br><br>
-      <img src="https://skillicons.dev/icons?i=java,spring,go,ts,nodejs,nestjs" /><br>
-      <sub>Java • Spring • Go<br>TypeScript • Node.js • NestJS</sub>
+      <b>AI / LLM</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" /><br>
+      <sub>LangChain • RAG (PGVector) • Ollama<br>QLoRA / Unsloth • Langfuse • MLflow</sub>
     </td>
     <td align="center" width="33%">
-      <b>AI & Data</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,postgres,redis,mongodb" /><br>
-      <sub>Python • PostgreSQL • MongoDB<br>Ollama • Vector Search • Redis</sub>
+      <b>Backend & Data</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,redis" /><br>
+      <sub>NestJS • Prisma • BullMQ<br>PostgreSQL • Redis</sub>
     </td>
     <td align="center" width="33%">
-      <b>Cloud & DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,azure,linux,git" /><br>
-      <sub>Docker • Azure • Linux • Git</sub>
+      <b>Frontend & Infra</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,tauri,docker,azure,linux" /><br>
+      <sub>React • Tauri • Tailwind<br>Docker • MinIO • Azure</sub>
     </td>
   </tr>
 </table>
 
----
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="140" alt="tech quote" />
-</div>
-
-<div align="center">
-  <sub>Let's build together! 🚀</sub>
+  <sub>Also comfortable with: Java (Spring Boot) • Go • MongoDB</sub>
 </div>
