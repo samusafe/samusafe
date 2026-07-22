@@ -5,12 +5,15 @@
 <h3 align="center">🤖 AI Engineer — RAG, Fine-tuning & LLMOps | Full-stack</h3>
 
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Private%2C+local-first+AI+platforms;RAG+pipelines+with+evals+%26+tracing;QLoRA+fine-tuning+on+consumer+GPUs;NestJS+%2B+FastAPI+%2B+LangChain" alt="Typing SVG" />
+  <a href="https://samuel-carvalho.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Private%2C+local-first+AI+platforms;RAG+pipelines+with+evals+%26+tracing;QLoRA+fine-tuning+on+consumer+GPUs;NestJS+%2B+FastAPI+%2B+LangChain" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
+  <a href="https://samuel-carvalho.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-samuel--carvalho.com-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/samusafe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -25,9 +28,9 @@
 
 Final-year **Computer Engineering** student in Porto, building **private, production-grade AI systems end-to-end** — from the backend and queues to the RAG pipeline, fine-tuned models and the desktop UI. I believe the best way to learn is by building, and I don't ship an AI change without measuring it.
 
-- 🔭 **Currently building:** **LocalVault** — an on-premise AI platform: local RAG (LangChain + PGVector + cross-encoder reranking, semantic cache), QLoRA fine-tuning (Unsloth → GGUF → Ollama) on an 8GB consumer GPU, evals tracked in MLflow and tracing with Langfuse. NestJS + BullMQ backend, Tauri/React desktop app. *(Closed-source — case study coming to my portfolio.)*
-- 💼 **Experience:** Researcher & Developer at **Fashable** — Generative AI, Azure cloud infrastructure, SaaS.
-- 🎯 **Looking for:** remote roles/internships in AI engineering — fine-tuning, internal process automation with LLMs, and LLM-powered product UIs.
+- 🔭 **Currently building:** **LocalVault** — an on-premise AI platform: local RAG (LangChain + PGVector + cross-encoder reranking, semantic cache), QLoRA fine-tuning (Unsloth → GGUF → Ollama) on an 8GB consumer GPU, evals tracked in MLflow and tracing with Langfuse. NestJS + BullMQ backend, Tauri/React desktop app. *(Closed-source — [case study](https://samuel-carvalho.com/localvault) on my portfolio.)*
+- 💼 **Experience:** Researcher & Developer at **Fashable** — shipped a production GenAI API on **Azure**; MVP backend demoed at **NRF 2024 (New York)**; app live on the **Microsoft Marketplace**.
+- 🎯 **Looking for:** remote roles/internships in AI engineering — fine-tuning, internal process automation with LLMs, and LLM-powered product UIs. Available from **Sept 2026** (BSc ends Jul 2027).
 - ⚡ **Off-screen:** chill, positive, and a big believer in constructive feedback.
 
 ---
