@@ -1,48 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=200&section=header&text=Samuel%20Carvalho&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+<h1 align="center">Samuel Carvalho</h1>
 
-<h3 align="center">🤖 AI Engineer — RAG, Fine-tuning & LLMOps | Full-stack</h3>
+<p align="center">
+  <b>AI Engineer — RAG · Fine-tuning · LLMOps</b><br>
+  <sub>Private, production GenAI systems, built end to end and measured before they ship.</sub>
+</p>
 
-<div align="center">
-  <a href="https://samuel-carvalho.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Private%2C+local-first+AI+platforms;RAG+pipelines+with+evals+%26+tracing;QLoRA+fine-tuning+on+consumer+GPUs;NestJS+%2B+FastAPI+%2B+LangChain" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://samuel-carvalho.com"><img src="https://img.shields.io/badge/Portfolio-samuel--carvalho.com-0F3D5C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/samusafe/"><img src="https://img.shields.io/badge/LinkedIn-samusafe-0F3D5C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samucarvalhocp@gmail.com"><img src="https://img.shields.io/badge/Email-samucarvalhocp%40gmail.com-0F3D5C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <a href="https://samuel-carvalho.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-samuel--carvalho.com-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/samusafe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:samucarvalhocp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+## About
 
-<br>
+Final-year Computer Engineering student in Porto, building private, on-prem AI systems from the backend and queues to the RAG pipeline, the fine-tuned model and the desktop UI. I don't ship an AI change without a number behind it: every retrieval or model change goes through [rag-eval-harness](https://github.com/samusafe/rag-eval-harness) before it lands.
 
-### 👨‍💻 About Me
+At [Fashable](https://samuel-carvalho.com) I built the backend and Azure infrastructure behind multimodal product search, demoed the MVP at **NRF 2024 (New York)** and saw it ship on the **Microsoft Marketplace** as a Teams Copilot app.
 
-Final-year **Computer Engineering** student in Porto, building **private, production-grade AI systems end-to-end** — from the backend and queues to the RAG pipeline, fine-tuned models and the desktop UI. I believe the best way to learn is by building, and I don't ship an AI change without measuring it.
+## Featured projects
 
-- 🔭 **Currently building:** **LocalVault** — an on-premise AI platform: local RAG (LangChain + PGVector + cross-encoder reranking, semantic cache), QLoRA fine-tuning (Unsloth → GGUF → Ollama) on an 8GB consumer GPU, evals tracked in MLflow and tracing with Langfuse. NestJS + BullMQ backend, Tauri/React desktop app. *(Closed-source — [case study](https://samuel-carvalho.com/localvault) on my portfolio.)*
-- 💼 **Experience:** Researcher & Developer at **Fashable** — shipped a production GenAI API on **Azure**; MVP backend demoed at **NRF 2024 (New York)**; app live on the **Microsoft Marketplace**.
-- 🎯 **Looking for:** remote roles/internships in AI engineering — fine-tuning, internal process automation with LLMs, and LLM-powered product UIs. Available from **Sept 2026** (BSc ends Jul 2027).
-- ⚡ **Off-screen:** chill, positive, and a big believer in constructive feedback.
+| Project | What it is | What it shows |
+|---|---|---|
+| [**rag-eval-harness**](https://github.com/samusafe/rag-eval-harness) | Regression gates for RAG pipelines: hit rate, MRR, keyword recall, refusal and citation checks, p95 latency, threshold gates and per-question diffs between runs. No LLM-as-judge. | Evaluation discipline. The same loop LocalVault runs internally. |
+| [**qlora-8gb-pipeline**](https://github.com/samusafe/qlora-8gb-pipeline) | JSONL dataset → 4-bit QLoRA adapter (Unsloth + TRL, Qwen 2.5 3B) → GGUF for Ollama, on a single RTX 4060. Digest-pinned Docker image and a provenance manifest per run. | Reproducible fine-tuning under a hard memory budget. |
+| [**swiss-legal-rag**](https://github.com/samusafe/swiss-legal-rag) · alpha | Local, trilingual RAG over Swiss federal law (Fedlex, DE/FR/IT): hybrid pgvector + full-text search with Reciprocal Rank Fusion, cross-encoder reranking, article-level citations, 33-question gold set. Offline Tauri desktop app. | Multilingual retrieval with citations you can check. |
+| [**YOLOv8**](https://github.com/samusafe/YOLOv8) | Retail shelf monitoring on SKU-110K and Shelves: 0.900 mAP@0.5 with Nano at ~3.2 ms per image on an RTX 4060. | More labelled data beat a 3× larger backbone. |
+| **LocalVault** · closed-source | On-prem AI platform: local RAG (pgvector, cross-encoder reranking, semantic cache), QLoRA fine-tuning on an 8 GB GPU, MLflow evals and Langfuse tracing. NestJS + BullMQ backend, Tauri/React desktop app. | The system the three tools above were built for. [Case study →](https://samuel-carvalho.com/localvault) |
 
----
+More case studies, including maiai and nexus-doc-ai, on [samuel-carvalho.com/projects](https://samuel-carvalho.com/projects).
 
-### 🛠️ Tech Stack
+## Stack
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <b>AI / LLM</b><br><br>
       <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" /><br>
-      <sub>LangChain • RAG (PGVector) • Ollama<br>QLoRA / Unsloth • Langfuse • MLflow</sub>
+      <sub>LangChain • pgvector • Ollama<br>QLoRA / Unsloth • Langfuse • MLflow</sub>
     </td>
     <td align="center" width="33%">
       <b>Backend & Data</b><br><br>
@@ -57,6 +51,4 @@ Final-year **Computer Engineering** student in Porto, building **private, produc
   </tr>
 </table>
 
-<div align="center">
-  <sub>Also comfortable with: Java (Spring Boot) • Go • MongoDB</sub>
-</div>
+<p align="center"><sub>Also comfortable with Java (Spring Boot), Go and MongoDB.</sub></p>
